@@ -1,0 +1,9 @@
+{
+  "name": "onvif-bulk-codec",
+  "version": "1.0.0",
+  "description": "Bulk-switch IP camera codec (H.264 -> H.265) via ONVIF or the camera web UI",
+  "dependencies": {
+    "playwright-core": "^1.63.0"
+  },
+  "private": true
+}

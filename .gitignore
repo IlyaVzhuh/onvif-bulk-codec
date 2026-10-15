@@ -1,0 +1,6 @@
+backup/
+shots/
+node_modules/
+inventory.json
+cams.txt
+*.jsonl
